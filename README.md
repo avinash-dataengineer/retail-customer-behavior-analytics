@@ -67,4 +67,5 @@ Migrated clean data structures from Python into a local PostgreSQL data warehous
 *Data Engineer*  
 
 **GitHub:** [github.com/avinash-dataengineer](https://github.com/avinash-dataengineer)  
-**LinkedIn:** [linkedin.com/in/avinashgurramkonda-data-analyst](http://linkedin.com)
+**LinkedIn:** [linkedin.com/in/avinashgurramkonda-data-engineer](http://linkedin.com)
+
