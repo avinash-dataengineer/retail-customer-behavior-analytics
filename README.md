@@ -269,8 +269,6 @@ Retail-Customer-Behavior-Analytics/
 
 ---
 
-# 📸 Dashboard Preview
-<img width="1358" height="726" alt="customer_Behavior_Dashboard" src="https://github.com/user-attachments/assets/043cfa8d-add4-47f8-bb91-0a73e745b7bc" />
 
 
 # 🚀 Retail Customer Behavior Analytics Platform (Proof of Concept)
@@ -323,6 +321,8 @@ The project demonstrates how transactional data flows from multiple sources thro
                  ▼
          Power BI Dashboard
 ```
+# 📸 Dashboard Preview
+<img width="1358" height="726" alt="customer_Behavior_Dashboard" src="https://github.com/user-attachments/assets/043cfa8d-add4-47f8-bb91-0a73e745b7bc" />
 
 ---
 
