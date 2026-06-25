@@ -50,8 +50,8 @@ The project demonstrates how transactional data flows from multiple sources thro
 ```
 # 📸 Dashboard Preview
 
-(<img width="1358" height="726" alt="image" src="https://github.com/user-attachments/assets/e2393a63-8bf3-4e77-a8a6-aed4794b7e9f" />
-)
+<img width="1358" height="726" alt="image" src="https://github.com/user-attachments/assets/e2393a63-8bf3-4e77-a8a6-aed4794b7e9f" />
+
 ---
 
 # ⚠ Repository Note
