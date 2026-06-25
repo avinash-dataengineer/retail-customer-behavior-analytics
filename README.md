@@ -1,5 +1,11 @@
 # 🚀 Retail Customer Behavior Analytics Platform (Proof of Concept)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQL](https://img.shields.io/badge/SQL-Advanced-green)
+![Azure](https://img.shields.io/badge/Azure-Data%20Engineering-0078D4)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+
 > Enterprise Data Engineering PoC demonstrating an end-to-end ETL pipeline, Data Warehouse design, SQL optimization, and Business Intelligence reporting inspired by real-world production workflows.
 
 ---
