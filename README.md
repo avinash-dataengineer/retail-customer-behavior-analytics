@@ -48,7 +48,10 @@ The project demonstrates how transactional data flows from multiple sources thro
                  ▼
          Power BI Dashboard
 ```
+# 📸 Dashboard Preview
 
+(<img width="1358" height="726" alt="image" src="https://github.com/user-attachments/assets/e2393a63-8bf3-4e77-a8a6-aed4794b7e9f" />
+)
 ---
 
 # ⚠ Repository Note
@@ -262,12 +265,6 @@ Retail-Customer-Behavior-Analytics/
 ├── Customer-Shopping-Behavior-Analysis.pptx
 └── PostgreSQL Scripts
 ```
-
----
-
-# 📸 Dashboard Preview
-
-(Add your Power BI dashboard image here)
 
 ---
 
